@@ -1,4 +1,9 @@
-# barbearia-alura
+## Olá, acho que você colocou arquivo index.html no local errado, aqui no Github.##
+## Você tem que subir o arquivo no repositório.##
+## Aqui é somente o README, que traz informações sobre o o repositório ##
+
+
+/.# barbearia-alura
 
 <DOCTYPE html>
 <html lang="pt-br">
